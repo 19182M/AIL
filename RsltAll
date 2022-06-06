@@ -1,4 +1,8 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+                        {"title":"SSC","details":"https://ssc.nic.in/portal/results"},
+                        {"title":"UPSC","details":"https://www.upsc.gov.in/exams-related-info/final-result"},
+                        {"title":"RRB","details":"http://www.rrbgovresult.in/Results.html"},
+                        {"title":"IBPS","details":"https://www.ibps.in/"},
+                        {"title":"JEE","details":"https://ntaresults.nic.in/resultservices/JEEMain2021auth"},
+                        {"title":"CBSC","details":"https://cbseresults.nic.in/cbseresults/Page/Page?PageId=19&LangId=P"}
 ]
