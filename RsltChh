@@ -1,4 +1,24 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+        {"title":"Chhattisgarh Board of Secondary Education","details":"https://results.cg.nic.in/"},
+        {"title":"Board of School and Technical Education (C.G.)","details":"http://bstecg.edu.in/sturslts2.aspx"},
+        {"title":"Chattisgarh Public Service Commision","details":"https://www.psc.cg.gov.in/htm/results.html"},
+        {"title":"Chhattisgarh Professional Examination Board","details":""},
+        {"title":"Chhattisgarh State Open School","details":""},
+        {"title":"Railway Recruitment Board,rrb-bilaspur","details":""},
+        {"title":"Atal Bihari Vajpayee Vishwavidyalaya","details":""},
+        {"title":"Bastar University","details":""},
+        {"title":"Central Scientific Instruments Organisation, Chandigarh","details":""},
+        {"title":"Chhattisgarh Kamdhenu Vishwavidyalaya","details":""},
+        {"title":"Chhattisgarh Swami Vivekananda Technical University","details":""},
+        {"title":"Directorate of Technical Education,Chhattisgarh","details":""},
+        {"title":"Guru Ghasidas University","details":""},
+        {"title":"Hidayatullah National Law University","details":""},
+        {"title":"Indira Gandhi Agricultural University","details":""},
+        {"title":"Indira Kala Sangeet Vishwa Vidyalaya","details":""},
+        {"title":"Kushubhau Thakre Patrakarita Aawam Jansanchar Vishwavidyalaya","details":""},
+        {"title":"OP Jindal University","details":""},
+        {"title":"Pandit Sundarlal Sharma (Open) University","details":""},
+        {"title":"Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University of Chhattisgarh","details":""},
+        {"title":"Pt.Ravishankar Shukla University","details":""},
+        {"title":"Sarguja University ","details":""}
 ]
