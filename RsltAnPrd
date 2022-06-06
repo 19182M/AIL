@@ -1,4 +1,14 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+        {"title":"Board of Secondary Education - Andhra Pradesh","details":"https://www.bseaps.org/results.html"},
+        {"title":"Board of Intermediate Education, Andhra Pradesh","details":"http://apbsie.org/results-2/"},
+        {"title":"Central Board of Secondary Education","details":"https://cbseresults.nic.in/CBSEResults/Page/Page?PageId=19&LangId=P"},
+        {"title":"Joint Entrance Examination (JEE)","details":"https://jeemain.nta.nic.in/"},
+        {"title":"Jawaharlal Nehru Technological University, Anantpur","details":"https://jntuaresults.ac.in/"},
+        {"title":"Andhra University","details":"https://results.andhrauniversity.edu.in/"},
+        {"title":"Krishna University","details":"https://kru.ac.in/category/results/"},
+        {"title":"Dr. B. R. Ambedkar University, Srikakulam","details":"http://www.brau.edu.in/notificationslist"},
+        {"title":"Vikrama Simhapuri University,Nellore, Andhra Pradesh","details":"https://vsuexams.in/pgresults"},
+        {"title":"Dravidian University","details":"https://www.dravidianuniversity.ac.in/dde-results-sdce.php"},
+        {"title":"Sri Venkateswara University , Andhra Pradesh","details":"https://svuniversity.edu.in/exams-results"},
+        {"title":"Yogi Vemana University, Andhra Pradesh","details":"http://www.yvuexams.in/results.aspx"}
 ]
