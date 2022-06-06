@@ -1,4 +1,24 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+        {"title":"Directorate of Higher Secondary Education, Kerala","details":"https://keralaresults.nic.in/"},
+        {"title":"Kerala Public Service Commission","details":"https://www.keralapsc.gov.in/shortlists"},
+        {"title":"Vocational Higher Secondary Education, Kerala ","details":""},
+        {"title":"University of Kerala","details":""},
+        {"title":"Kannur University","details":""},
+        {"title":"Calicut University","details":""},
+        {"title":"APJ Abdul Kalam Technological University","details":""},
+        {"title":"Central University of Kerala","details":""},
+        {"title":"Commissionarate of Entrance Examinations","details":""},
+        {"title":"Department of General Education","details":""},
+        {"title":"Indian Institute of Space Science and Technology","details":""},
+        {"title":"Cochin University of Science and Technology","details":""},
+        {"title":"Kerala Pareeksha Bhavan, SSLC Examination","details":""},
+        {"title":"Kerala Agricultural university","details":""},
+        {"title":"Kerala Kalamandalam","details":""},
+        {"title":"Kerala Technological University","details":""},
+        {"title":"Kerala University of Fisheries and Ocean Studies","details":""},
+        {"title":"Kerala university of health Sciences","details":""},
+        {"title":"Kerala Veterinary and Animal Sciences University","details":""},
+        {"title":"Mahatma Gandhi University, Kottayam","details":""},
+        {"title":"National University of Advanced Legal Studies","details":""},
+        {"title":"Sree Sankaracharya University of Sanskrit","details":""}
 ]
