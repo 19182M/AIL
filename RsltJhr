@@ -1,4 +1,12 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+        {"title":"Jharkhand Academic Council, Ranchi","details":"https://www.jacresults.com/"},
+        {"title":"Jharkhand Combined Entrance Competitive Examination Board","details":"https://jceceb.jharkhand.gov.in/links/resultb.aspx"},
+        {"title":"Ranchi University, Ranchi, Jharkhand","details":""},
+        {"title":"Railway Recruitment Board, Ranchi","details":""},
+        {"title":"Central University of Jharkhand, Ranchi","details":""},
+        {"title":"Vinoba Bhave University, Hazaribag","details":""},
+        {"title":"Birsa Agricultural University, Ranchi","details":""},
+        {"title":"Birla Institute of Technology, Mesra","details":""},
+        {"title":"Indian School of Mines University, Dhanbad","details":""},
+        {"title":"Sido Kanhu Murmu University, Dumka","details":""}
 ]
