@@ -1,4 +1,11 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+        {"title":"HP Board of School Education, Dharamshala","details":"https://www.hpbose.org/result.aspx"},
+        {"title":"Himachal Pradesh Public Service Commission","details":"http://www.hppsc.hp.gov.in/hppsc/Content/Index/?qlid=4&Ls_is=4&lngid=1"},
+        {"title":"HP University, Shimla","details":""},
+        {"title":"Central University of Himachal Pradesh, Dharamshala","details":""},
+        {"title":"Himachal Pradesh Technical University, Hamirpur","details":""},
+        {"title":"Institute of Management Studies","details":""},
+        {"title":"Himachal Pradesh Takniki Shiksha Board","details":""},
+        {"title":"Dr. Yashwant Singh Parmar University of Horticulture and Forestry, Solan","details":""},
+        {"title":"Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya, Palampur","details":""}
 ]
