@@ -1,4 +1,10 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+        {"title":"Jammu & Kashmir State Board of School Education","details":"https://jkbose.nic.in/results/"},
+        {"title":"Central University of Kashmir, Srinagar","details":""},
+        {"title":"University of Kashmir","details":""},
+        {"title":"University of Jammu, Jammu","details":""},
+        {"title":"Jammu and Kashmir Public Service Commission","details":""},
+        {"title":"Islamic University of Science and Technology, Pulwama","details":""},
+        {"title":"Shri Mata Vaishno Devi University, katra","details":""},
+        {"title":"Baba Ghulam Shah Badhshah University, Rajauri","details":""}
 ]
