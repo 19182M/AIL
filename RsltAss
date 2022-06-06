@@ -1,4 +1,18 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+        {"title":"Board of Secondary Education, Assam","details":"http://www.sebaonline.info/?link=cmVzdWx0cw%3D%3D"},
+        {"title":"Assam Higher Secondary Education Council","details":"https://ahsec.assam.gov.in/index.php/results/"},
+        {"title":"Assam Public Service Commission","details":"http://apsc.nic.in/final-results-2022.asp"},
+        {"title":"Assam Agricultural University","details":""},
+        {"title":"Assam Science and Technology University, Guwahati","details":""},
+        {"title":"Assam University","details":""},
+        {"title":"Assam Women's University","details":""},
+        {"title":"Bodoland University, Assam","details":""},
+        {"title":"Cotton College State University, Assam","details":""}, 
+        {"title":"Dibrugarh University","details":""}, 
+        {"title":"Directorate of Technical Education Assam","details":""}, 
+        {"title":"Gauhati University","details":""}, 
+        {"title":"Indian Institute of Technology Guwahati","details":""}, 
+        {"title":"Krishna Kanta Handique State Open University","details":""}, 
+        {"title":"Srimanta Sankaradeva University of Health Sciences","details":""}, 
+        {"title":"Tezpur University","details":""}
 ]
