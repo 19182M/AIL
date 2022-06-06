@@ -1,4 +1,11 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+        {"title":"Karnataka Secondary Education Examination Board","details":"https://sslc.karnataka.gov.in/new-page/Results/en"},
+        {"title":"University of Mysore, Karnataka","details":""},
+        {"title":"Rajiv Gandhi University of Health Sciences, Bangalore","details":""},
+        {"title":"Gulbarga University, Gulbarga","details":""},
+        {"title":"Swami Vivekananda Yoga Anusandhana Samsthana, Bangalore","details":""},
+        {"title":"Bangalore University","details":""},
+        {"title":"Karnataka Sanskrit University, Bangalore","details":""},
+        {"title":"University of Agricultural Sciences, Bangalore","details":""},
+        {"title":"University of Agricultural Sciences, Dharwad","details":""}
 ]
