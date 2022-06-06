@@ -1,4 +1,12 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+        {"title":"Board of School Education , Haryana","details":"https://bseh.org.in/all-results"},
+        {"title":"National Institute of Technology Kurukshetra","details":""},
+        {"title":"Central University of Haryana, Mahendragarh","details":""},
+        {"title":"Chaudhary Charan Singh Agricultural University , Hisar","details":""},
+        {"title":"Kurukshetra University, Kurukshetra","details":""},
+        {"title":"Maharshi Dayanand University, Rohtak","details":""},
+        {"title":"Deenbandhu Chhotu Ram University of Science and Technology, Murthal","details":""},
+        {"title":"Chaudhary Devilal University, Sirsa, Haryana","details":""},
+        {"title":"YMCA University of Science and Technology, Faridabad","details":""},
+        {"title":"Bhagat Phool Singh Mahila Vishwavidyalaya, Sonipat","details":""}
 ]
