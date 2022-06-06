@@ -1,4 +1,14 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+
+        {"title":"Gujarat State Secondary And Higher Sec Education Board","details":"https://www.gseb.org/"},
+        {"title":"Gujarat Common Entrance Test (GUJCET)","details":""},
+        {"title":"Gujarat Secondary Service Selection Board","details":""},
+        {"title":"Railway Recruitment Board, Ahmedabad","details":""},
+        {"title":"Central University of Gujrat","details":""},
+        {"title":"Bhavnagar University","details":""},
+        {"title":"Gujarat Technological University, Ahemadabad","details":""},
+        {"title":"Saurashtra University, Rajkot","details":""},
+        {"title":"Veer Narmad South Gujarat University, Surat","details":""},
+        {"title":"Gujarat National Law University, Koba","details":""},
+        {"title":"Anand Agricultural University, Anand","details":""}
 ]
