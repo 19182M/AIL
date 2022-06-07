@@ -1,4 +1,12 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+                        {"title":"Punjab School Education Board","details":"http://punjab.indiaresults.com/pseb/default.htm"},
+                        {"title":"Lovely Professional University (LPU)","details":""},
+                        {"title":"Punjab Technical University","details":""},
+                        {"title":"Panjab University Chandigrah","details":""},
+                        {"title":"Guru Nanak Dev University, Amritsar","details":""},
+                        {"title":"Baba Farid University of Health Sciences, Faridkot","details":""},
+                        {"title":"Thapar University, Patiala","details":""},
+                        {"title":"Rajiv Gandhi National University Of law, Patiala","details":""},
+                        {"title":"Punjab Agricultural Univerersity, Ludhiana","details":""},
+                        {"title":"Dr. B. R. Ambedkar National Institute of Technology, Jalandhar","details":""}
 ]
