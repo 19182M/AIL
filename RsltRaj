@@ -1,4 +1,12 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+                        {"title":"Board of Secondary Education Rajasthan","details":"https://rajeduboard.rajasthan.gov.in/RESULT2022/Result2022.htm"},
+                        {"title":"Rajasthan Eligibility Exam for Teachers","details":""},
+                        {"title":"Mahatma Gandhi University of Medical Sciences & Technology, Jaipur","details":""},
+                        {"title":"Rajasthan Sanskrit University","details":""},
+                        {"title":"University of Kota, Kota","details":""},
+                        {"title":"University of Rajasthan","details":""},
+                        {"title":"Rajasthan Public Service Commission","details":""},
+                        {"title":"MDS University, Ajmer","details":""},
+                        {"title":"Maharaja Ganga Singh University, Bikaner","details":""},
+                        {"title":"Jai Narayan Vyas University, Jodhpur","details":""}
 ]
