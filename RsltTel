@@ -1,4 +1,30 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+
+                        {"title":"Board of Intermediate Education Telangana","details":"https://tsbie.cgg.gov.in/jsp/results.jsp"},
+                        {"title":"Board of Secondary Education Telangana","details":"https://www.bse.telangana.gov.in/Results.aspx"},
+                        {"title":"Acharya N. G. Ranga Agricultural University,Telangana","details":""},
+                        {"title":"ATMA - AIMS Test For Management Admissions","details":""},
+                        {"title":"Department of School Education - Telangana","details":""},
+                        {"title":"Dr B.R.Ambedkar Open University,Telangana","details":""},
+                        {"title":"GOVERNMENT OF TELANGANA SCHOOL EDUCATION DEPARTMENT","details":""},
+                        {"title":"Jawaharlal Nehru Architecture and Fine Arts University,Telangana","details":""},
+                        {"title":"Jawaharlal Nehru Technological University, Hyderabad","details":""},
+                        {"title":"Kakatiya University,Telangana","details":""},
+                        {"title":"Kaloji Narayana Rao University of Health Sciences","details":""},
+                        {"title":"Mahatma Gandhi University, Nalgonda","details":""},
+                        {"title":"Maulana Azad National Urdu University, Telangana","details":""},
+                        {"title":"Nizam’s Institute of Medical Sciences, Hyderabad","details":""},
+                        {"title":"Osmania University,Telangana","details":""},
+                        {"title":"Palamuru University,Telangana","details":""},
+                        {"title":"Potti Sreeramulu Telugu University,Telangana","details":""},
+                        {"title":"Professor Jayashankar Agricultural University","details":""},
+                        {"title":"Satavahana University","details":""},
+                        {"title":"State Board of Technical Education And Training, Telangana","details":""},
+                        {"title":"Telangana Open School Society","details":""},
+                        {"title":"Telangana Residential Educational Institutions Society Hyderabad","details":""},
+                        {"title":"Telangana State Council of Higher Education","details":""},
+                        {"title":"Telangana State Teacher Eligibility","details":""},
+                        {"title":"Telangana University,Telangana","details":""},
+                        {"title":"Unified Council Hyderabad (Telangana)","details":""},
+                        {"title":"University of Hyderabad, Telangana","details":""}
 ]
