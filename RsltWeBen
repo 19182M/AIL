@@ -1,4 +1,14 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+                        {"title":"West Bengal Board Of Secondary Education","details":"https://wbresults.nic.in/"},
+                        {"title":"West Bengal Council Of Higher Secondary Education","details":"https://wbchse.nic.in/html/highlights.html"},
+                        {"title":"West Bengal State Council of Tech. & Vocational Education & Skill Development","details":""},
+                        {"title":"West Bengal State Council of Vocational Education & Training","details":""},
+                        {"title":"University of Gour Banga,West Bengal","details":""},
+                        {"title":"West Bengal State Council of Technical Education","details":""},
+                        {"title":"West Bengal Joint Entrance Examinations Board","details":""},
+                        {"title":"Vidyasagar University","details":""},
+                        {"title":"Kalyani University ,West Bengal","details":""},
+                        {"title":"Railway Recruitment Board, Malda","details":""},
+                        {"title":"University of Calcwbta,Kolkata","details":""},
+                        {"title":"Sidho Kanho Birsha University, Purulia","details":""}
 ]
