@@ -1,4 +1,8 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+
+                        {"title":"Tripura Board of Secondary Education","details":"https://tbresults.tripura.gov.in/"},
+                        {"title":"Maharaja Bir Bikram University","details":""},
+                        {"title":"National Institutes of Technology (NIT), Agartala","details":""},
+                        {"title":"Tripura Board of Joint Entrance Examination","details":""},
+                        {"title":"Tripura University","details":""}
 ]
