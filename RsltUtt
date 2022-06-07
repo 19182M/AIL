@@ -1,4 +1,11 @@
 [
-        {"title":"Amazon","details":"https://www.amazon.in"},
-        {"title":"Google","details":"https://www.google.com"}
+                        {"title":"Uttarakhand Board of School Education","details":"https://ubse.uk.gov.in/pages/display/85-results--admit-cards"},
+                        {"title":"Uttarakhand Board of Technical Education, Roorkee","details":"http://www.ubter.in/"},
+                        {"title":"Sri Dev Suman Uttarakhand Vishwavidhalaya Badshahithaul Tehri","details":""},
+                        {"title":"Kumaun University, Nainital","details":""},
+                        {"title":"Gurukula Kangri Vishwavidyalaya, Haridwar","details":""},
+                        {"title":"Hemwati Nandan Bahuguna Garwal University","details":""},
+                        {"title":"HIHT University, Dehradun","details":""},
+                        {"title":"Uttarakhand Technical University, Dehradun","details":""},
+                        {"title":"Hemwati Nandan Bahuguna Garwal University","details":""}
 ]
